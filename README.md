@@ -31,7 +31,7 @@ Cloning
 In your terminal:
 
   $ git clone my repo
-  $ cd Python-pwd-locker
+  $ cd Password-locker
 Testing the Application
 To run the tests for the class file:
 
